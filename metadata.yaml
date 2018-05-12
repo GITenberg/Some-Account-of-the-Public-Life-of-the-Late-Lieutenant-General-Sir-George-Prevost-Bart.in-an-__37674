@@ -1,0 +1,29 @@
+_repo: Some-Account-of-the-Public-Life-of-the-Late-Lieutenant-General-Sir-George-Prevost-Bart.in-an-__37674
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brenton, E. B.
+    gutenberg_agent_id: '38987'
+    url: http://www.gutenberg.org/2009/agents/38987
+description: ''
+gutenberg_issued: '2011-10-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37674'
+  lccn: 06038088
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Prevost, George, 1767-1816'
+- !lcsh 'United States -- History -- War of 1812'
+- !lcc 'E300'
+title: "Some Account of the Public Life of the Late Lieutenant-General Sir George\
+  \ Prevost, Bart.\r\nParticularly of His Services in the Canadas, Including a Reply\
+  \ to the Strictures on His Military Character, Contained in an Article in the Quarterly\
+  \ Review"
+url: http://www.gutenberg.org/ebooks/37674
